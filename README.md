@@ -1,6 +1,6 @@
 # WEBrom
 АВТОР
-Маджидов Шахром М33081 
+**Маджидов Шахром М33081** 
 
 **Ссылка на Figma:** 
 https://www.figma.com/file/fRX31bwYuf8WY9MfwpVLJ5/Project?node-id=2%3A5   
